@@ -2,4 +2,4 @@
 
 Bear with us as we transition from google drive to github!   
 
-Here you will find homework assignemnt files and instructions as they become availble.
+Here you will find homework assignment files and instructions as they become availble.
